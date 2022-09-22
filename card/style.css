@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0
+}
+.bg{
+    background-color: rgb(29, 29, 29);
+    height: 101vh;
+    width: 1920px;
+}
+
+
+.card{
+position: relative;
+bottom: 450px;
+}
