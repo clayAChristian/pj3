@@ -5,11 +5,51 @@
 .bg{
     background-color: rgb(29, 29, 29);
     height: 101vh;
-    width: 1920px;
+    width: 1905px;
 }
 
 
-.card{
-position: relative;
-bottom: 450px;
+.card1{
+    position: relative;
+    bottom: 937px;
+    background-color: rgb(255, 255, 255);
+    width: 20%;
+    text-align: center;
+    padding-top: 40px;
+    margin-left: 50px;
+    height: 775px;
+    border-radius: 100px;
 }
+
+.card2{
+    position: relative;
+    bottom: 1450px;
+    background-color: blue;
+    width: 909px;
+    text-align: center;
+    padding-top: 40px;
+    left: 23%;
+    margin-top: -305px;
+    margin-left: 50px;
+    margin-right: 10px;
+    height: 775px;
+    border-radius: 100px;
+
+    }
+
+.card3{
+    position: relative;
+    bottom: 450px;
+    background-color: rgb(251, 251, 251);
+    width: 45%;
+    text-align: center;
+    padding-top: 40px;
+    left: 960px;
+    margin-top: -305px;
+    top: 0px;
+    right: 50px;
+    height: 775px;
+    border-radius: 100px;
+
+}
+
