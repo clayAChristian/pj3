@@ -1,0 +1,165 @@
+* {
+    padding: 0;
+    margin: 0
+}
+
+.form{
+    position: relative;
+    top: 50px;
+    text-align: left;
+    margin-left: 50px;
+    font-size: larger;
+    margin-bottom: 120px;
+}
+
+.bg{
+    background-color: rgb(29, 29, 29);
+    height: 141vh;
+    width: 1905px;
+}
+.card1{
+    position: relative;
+    bottom: 937px;
+    background-color: blue;
+    width: 45%;
+    text-align: center;
+    padding-top: 40px;
+    margin-left: 50px;
+    height: 575px;
+    border-radius: 100px;
+}
+
+.card2{
+    position: relative;
+    background-color: rgb(60, 0, 255);
+    width: 45%;
+    text-align: center;
+    padding-top: 40px;
+    left: 1000px;
+    right: 50px;
+    height: 575px;
+    border-radius: 100px;
+    margin-top: -1550px;
+
+}
+
+.bg77{
+    background-color: #fff;
+    width: 800px;
+    height: 450px;
+    position: relative;
+    top: 400px;
+    right: 445px;
+    text-align: left;
+}
+.erthing{
+    position: relative;
+    bottom: 400px;
+
+}
+
+.bw{
+    text-align: center;
+    font-size: larger;
+}
+.form2{
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+}
+.wmodal{
+    position: relative;
+    top: 85px;
+    box-shadow: black;
+
+
+}
+.password{
+    position: relative;
+    top: 40px;
+}
+
+input {
+    display: block;
+    width: 400px;
+    padding: 10px;
+    height: 30px;
+}
+
+::placeholder {
+    font-size: 20px;
+    text-size-adjust: 300px;
+}
+
+.mainbutton{
+    position: relative;
+    top: 100px;
+    width: 100px;
+    height: 50px;
+}
+button{
+    color: blue;
+}
+.modal {
+    display: none; 
+    position: fixed; 
+    left: 665px;
+    top: 0;
+    width: 590px; 
+    height: 200px; 
+    background-color: rgb(255, 248, 248); 
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.3);
+
+
+  }
+  
+  .modal-content {
+    background-color: #fefefe;
+    padding: 20px;
+    width: 90%;
+    text-align: center;
+  }
+  
+  .close {
+    color: rgb(0, 0, 0);
+    font-size: 28px;
+    font-weight: bold;
+    border: black;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+  }
+.cb{
+    position: relative;
+    right: -20px;    
+    top: 50px;
+    border: black;
+}
+
+
+
+
+
+@media only screen and (max-width: 800px) {
+    .card1{
+        position: relative;
+        bottom: 937px;
+        background-color: blue;
+        width: 45%;
+        text-align: center;
+        margin-left: 50px;
+        height: 575px;
+        border-radius: 100px;
+        text-size-adjust: 30px;
+    }
+}
+
+@media only screen and (max-width: 800px){
+    .card2{
+        position: relative;
+    }
+}
