@@ -115,10 +115,12 @@ button{
   }
   
   .modal-content {
+    position: relative;
     background-color: #fefefe;
     padding: 20px;
     width: 90%;
     text-align: center;
+    top: 30px;
   }
   
   .close {
@@ -136,30 +138,73 @@ button{
 .cb{
     position: relative;
     right: -20px;    
-    top: 50px;
+    top: 70px;
     border: black;
+}
+.bg33{
+    position: relative;
+    top: 25px;
+    width: 590px;
+    height: 1px;
+    background-color: rgb(0, 0, 0);
 }
 
 
 
 
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 850px) {
     .card1{
         position: relative;
-        bottom: 937px;
+        bottom: 2450px;
         background-color: blue;
-        width: 45%;
+        width: 100%;
         text-align: center;
-        margin-left: 50px;
-        height: 575px;
+        height: 405px;
         border-radius: 100px;
         text-size-adjust: 30px;
+        font-size: 12px;
+        right: 40px;
     }
 }
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 850px) {
     .card2{
         position: relative;
+        background-color: rgb(60, 0, 255);
+        width: 100%;
+        text-align: center;
+        padding-top: 40px;
+        left: 0px;
+        right: 00px;
+        height: 405px;
+        border-radius: 100px;
+        margin-top: 0px;
+        top: -2300px;
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    .bg77{
+        background-color: #fff;
+        width: 500px;
+        height: 480px;
+        position: relative;
+        top: 400px;
+        right: 445px;
+        text-align: left;
+        left: 20px;
+        font-size: 12px;
+        top: 130px;
+        }
+    ::placeholder {
+        font-size: 20px;
+        text-size-adjust: 30px;
+    }
+    .bg{
+        background-color: rgb(29, 29, 29);
+        height: 2900px;
+        width: 750px;
     }
 }
