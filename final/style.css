@@ -1,0 +1,539 @@
+* {
+    padding: 0;
+    margin: 0
+}
+
+.navbar{
+    background-color: rgb(0, 30, 255);
+    width: 100%;
+    height: 65px;
+}
+.img2{
+    margin-left: 1830px;
+    margin-top: -62px;
+    cursor: pointer;
+}
+.navtext{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: #ffff;
+    cursor: pointer;
+
+}
+.navtext1{
+    margin-top: -45px;
+    margin-left: 7%;
+}
+.navtext2{
+    margin-top: -35px;
+    margin-left: 27%;
+
+}
+.navtext3{
+    margin-top: -35px;
+    margin-left: 52%;
+
+}
+.navtext4{
+    margin-top: -35px;
+    margin-left: 77%;
+
+}
+.bg{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
+.herobar {
+    position: relative;
+    top: 13px;
+    background-color: black;
+    height: 90vh;
+    width: 100%;
+    padding-top: 90px;
+}
+.bg332{
+    background-color: blue;
+    position: relative;
+    width: 260px;
+    height: 130px;
+    bottom: 240px;
+    left: 350px;
+}
+.carname{
+    
+}
+
+.herotxt {
+    background-color: rgb(58, 58, 58);
+    height: 80vh;
+    width: 45%;
+    margin-left: 4%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    font-size: 100px;
+    color: rgb(245, 245, 245);
+    position: relative;
+    bottom: 0;
+}
+
+.heroimg {
+    background-image: url(../images/pandasecurity-MC-types-hackers.jpeg);
+    height: 80vh;
+    width: 45%;
+    margin-left: 51.55%;
+    margin-top: -80vh;
+    background-repeat: no-repeat;
+    position: relative;
+    bottom: 130px;
+}
+
+.bg321{
+    background-color: darkgray;
+    height: 2000px;
+    width: 1905px;
+
+}
+
+.cards{
+    position: relative;
+    top: 0px;
+}
+
+
+.card1{
+    position: relative;
+    bottom: 937px;
+    background-color: blue;
+    width: 20%;
+    text-align: center;
+    padding-top: 40px;
+    margin-left: 50px;
+    height: 775px;
+    border-radius: 100px;
+    font-size: 40px;
+}
+
+.para{
+    font-size: 20px;
+}
+
+.para3{
+    font-size: 20px;
+    position: relative;
+    top: 340px;
+    padding: 30px;
+}
+
+.cardimg3{
+    position: relative;
+    bottom: 150px;
+}
+
+.card2{
+    position: relative;
+    bottom: 1450px;
+    background-color: blue;
+    width: 909px;
+    text-align: center;
+    padding-top: 40px;
+    left: 23%;
+    margin-top: -305px;
+    margin-left: 50px;
+    margin-right: 10px;
+    height: 775px;
+    border-radius: 100px;
+    font-size: 40px;
+
+}
+
+.card3{
+    position: relative;
+    bottom: 600px;
+    background-color: blue;
+    width: 45%;
+    text-align: center;
+    padding-top: 40px;
+    left: 960px;
+    margin-top: -405px;
+    top: -105px;
+    right: 50px;
+    height: 775px;
+    border-radius: 100px;
+    font-size: 40px;
+
+}
+
+:root{
+    --grey: rgb(80, 80, 80);
+    --lightgrey: rgb(170, 170, 170);
+    --black: rgb(0, 0, 0);
+    --textSize: 18px;
+}
+
+html {
+    box-sizing: border-box;
+    background-color: var(--black);
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 605px 605px 605px;
+    grid-auto-flow: column;
+    grid-gap: 40px;
+    margin-top: 35px;
+    position: relative;
+    top: 250px;
+
+}
+
+.allgrid{
+    position: relative;
+    right: 485px;
+    top: 100px;
+}
+
+.item {
+    display: flex;
+    height: 50vh;
+    background-color: var(--lightgrey);
+    font-size: 19px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    position: relative;
+    text-align: left;
+    margin-left: 50px;
+    font-size: larger;
+}
+
+.bg888{
+    background-color: rgb(29, 29, 29);
+    height: 171vh;
+    width: 1905px;
+}
+
+.card12{
+    position: relative;
+    bottom: 1237px;
+    background-color: blue;
+    width: 45%;
+    text-align: center;
+    padding-top: 40px;
+    margin-left: 50px;
+    height: 775px;
+    border-radius: 100px;
+}
+
+.card22{
+    position: relative;
+    background-color: rgb(60, 0, 255);
+    width: 45%;
+    text-align: center;
+    padding-top: 40px;
+    left: 1000px;
+    right: 50px;
+    height: 775px;
+    border-radius: 100px;
+    margin-top: -1550px;
+    bottom: 501px;
+
+}
+
+.bg77{
+    background-color: #fff;
+    width: 800px;
+    height: 450px;
+    position: relative;
+    top: 700px;
+    right: 445px;
+    text-align: left;
+}
+.erthing{
+    position: relative;
+    bottom: 200px;
+
+}
+
+.bw{
+    text-align: center;
+    font-size: larger;
+}
+.form2{
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
+.wmodal{
+    position: relative;
+    top: 85px;
+    box-shadow: black;
+
+
+}
+.password{
+    position: relative;
+    top: 40px;
+}
+
+input {
+    display: block;
+    width: 400px;
+    padding: 10px;
+    height: 30px;
+}
+
+::placeholder {
+    font-size: 20px;
+    text-size-adjust: 300px;
+}
+
+.mainbutton{
+    position: relative;
+    top: 100px;
+    width: 100px;
+    height: 50px;
+}
+button{
+    color: blue;
+    position: relative;
+    left: 50px;
+}
+.modal {
+    display: none; 
+    position: fixed; 
+    left: 665px;
+    top: 0;
+    width: 590px; 
+    height: 200px; 
+    background-color: rgb(255, 248, 248); 
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.3);
+
+
+}
+  
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    padding: 20px;
+    width: 90%;
+    text-align: center;
+    top: 30px;
+}
+  
+.close {
+    color: rgb(0, 0, 0);
+    font-size: 28px;
+    font-weight: bold;
+    border: black;
+}
+  
+.close:hover,
+.close:focus {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+.cb{
+    position: relative;
+    right: -20px;    
+    top: 70px;
+    border: black;
+}
+.bg33{
+    position: relative;
+    top: 25px;
+    width: 590px;
+    height: 1px;
+    background-color: rgb(0, 0, 0);
+}
+
+.d665f09{
+    position: relative;
+    top: 40px;
+}
+
+.img03{
+    position: relative;
+    left: 503px;
+    bottom: 759px;
+}
+
+.img04{
+    position: relative;
+    bottom: 759px;
+    left: 503px;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 850px) {
+    .card1{
+        position: relative;
+        bottom: 2450px;
+        background-color: blue;
+        width: 100%;
+        text-align: center;
+        height: 405px;
+        border-radius: 100px;
+        text-size-adjust: 30px;
+        font-size: 12px;
+        right: 40px;
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    .card2{
+        position: relative;
+        background-color: rgb(60, 0, 255);
+        width: 100%;
+        text-align: center;
+        padding-top: 40px;
+        left: 0px;
+        right: 00px;
+        height: 405px;
+        border-radius: 100px;
+        margin-top: 0px;
+        top: -2300px;
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    .bg77{
+        background-color: #fff;
+        width: 500px;
+        height: 480px;
+        position: relative;
+        top: 400px;
+        right: 445px;
+        text-align: left;
+        left: 20px;
+        font-size: 12px;
+        top: 130px;
+        }
+    ::placeholder {
+        font-size: 20px;
+        text-size-adjust: 30px;
+    }
+    .bg{
+        background-color: rgb(29, 29, 29);
+        height: 2900px;
+        width: 750px;
+    }
+}
+
+
+
+@media only screen and (max-width: 950px) {
+    .grid {
+        grid-template-columns: repeat(3, auto); 
+        grid-template-rows: repeat(3, 50vh);
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .grid {
+        grid-template-columns: auto;
+        grid-template-rows: repeat(3, 50vh);
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    .card1{
+        position: relative;
+        bottom: 937px;
+        background-color: rgb(229, 255, 0);
+        width: 400px;
+        text-align: center;
+        padding-top: 40px;
+        margin-left: 50px;
+        height: 760px;
+        border-radius: 100px;
+        bottom: 0px;
+        top: -2900px;
+    }
+
+    .card2{
+        position: relative;
+        bottom: 1450px;
+        background-color: blue;
+        width: 400px;
+        text-align: center;
+        padding-top: 40px;
+        left: 0;
+        margin-top: -305px;
+        margin-left: 50px;
+        margin-right: 10px;
+        height: 760px;
+        border-radius: 100px;
+        top: -2450px;
+        
+    
+    }
+
+    .card3{
+        position: relative;
+        bottom: 450px;
+        background-color: rgb(0, 0, 0);
+        width: 400px;
+        text-align: center;
+        padding-top: 40px;
+        left: 0px;
+        margin-top: -305px;
+        top: 1100px;
+        right: 50px;
+        height: 760px;
+        border-radius: 100px;
+    
+    }
+    
+    .bg321{
+        background-color: rgb(29, 29, 29);
+        height: 3000px;
+        width: 485px;
+    }
+
+}
+
+@media only screen and (max-width:1050px) {
+   .herotxt {
+       font-size: 30px;
+   }
+
+   .heroimg {
+       width: 450px;
+   }
+}
+
+   @media only screen and (max-width: 650px) {
+    .herobar {
+        height: 100%;
+    }
+
+    .herotxt {
+        font-size: 20px;
+        width: 90%;
+    }
+    .heroimg {
+        margin-top: 50px;
+        margin-left: 20px;
+        width: 90%;
+        padding-bottom: 50%;
+    }
+
+}
